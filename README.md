@@ -2,7 +2,9 @@
 Praktikum Jaringan Komputer
 
 NAMA : RINDA AMBARWATI PUTRI
+
 NIM : 09030582226015
+
 KELAS : TK4A
 
                                       A. Alat dan Bahan
